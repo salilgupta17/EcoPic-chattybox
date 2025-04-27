@@ -2,8 +2,8 @@ import streamlit as st
 
 # ✅ MUST be first Streamlit command
 st.set_page_config(
-    page_title="Health Q&A ChatBot",
-    page_icon="🩺",
+    page_title="EcoPic Assistant",
+   
     layout="centered"
 )
 
