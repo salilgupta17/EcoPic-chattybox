@@ -53,7 +53,7 @@ if "submitted" not in st.session_state:
     st.session_state.submitted = False
 
 # ✅ Streamlit App UI
-st.header("🩺 QueueCare Health Assistant")
+st.header("EcoPic Assitant")
 
 # ✅ Text input (press Enter submits)
 user_query = st.text_input(
